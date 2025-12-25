@@ -17,9 +17,9 @@ A React + TypeScript project built with Vite, designed to display student assess
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Neel2k5/Student-Assessment-Report-Page.git
+git clone https://github.com/Neel2k5/Student-Assessment-Report-Page.git 
 
-cd folder
+cd Student-Assessment-Report-Page
 ```
 
 ### 2. Install dependencies
