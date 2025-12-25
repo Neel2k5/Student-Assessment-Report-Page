@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div className="bg-[#D6D6D6] h-full pb-5">
+    <div className="bg-[#D6D6D6] h-screen">
       <NavBar/>
       <ReportItem data={data[0]}/>
     </div>
